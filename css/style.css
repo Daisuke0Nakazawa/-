@@ -1,0 +1,81 @@
+body{
+    width:1200px;
+    background-color: grey;
+    margin:0 100px
+}
+
+h1{
+    text-align:center;
+    font-size:100px;
+       
+}
+
+h2{
+    text-align: center;
+    line-height: 100px;;
+    font-size: 60px;
+    margin-bottom: 200px;
+}
+
+.tubakuroimg{
+    display:flex;
+    margin:0 100px
+}
+.tubakurochoki{
+    margin:0 50px;
+}
+
+.resultimg  p{
+    margin:0 50px;
+    font-size: 40px;;
+}
+
+
+.tubakuroguu:hover{
+    opacity: 0.7;
+    
+    
+}
+
+.tubakurochoki:hover{
+    opacity: 0.7;
+    
+}
+.tubakuropa:hover{
+    opacity: 0.7;
+    
+}
+
+.jankenresult{
+    font-size: 100px;;
+    text-align: center;
+   
+
+}
+.wincount p{
+font-size: 100px;
+
+}
+.losecount p{
+    font-size: 100px;
+   
+}
+
+.count{
+    width:1200px;
+    display:flex;
+    height:300px;
+    margin:0 auto;
+    justify-content: center;
+    
+}
+
+.totalresult{
+    width:1200px;
+    font-size: 150px;
+    text-align: center;
+}
+
+.championimg{
+    display: none;
+}
